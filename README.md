@@ -20,24 +20,6 @@ I have experience in manual testing, functional testing, regression testing, and
 
 ---
 
-## Experience
-
-**Unit Testing**
-
-Experience developing unit tests with **Mockito**, focusing on component validation and code reliability.
-
-**Manual Testing**
-
-Experience working in corporate environments including:
-
-* CODESA
-* Carvajal — FECO & FEPE
-* Banco Unión
-
-Experience with test case design, execution, regression testing, business rule validation, defect reporting, documentation, and post-production follow-up.
-
----
-
 ## Tech Stack
 
 ### Languages

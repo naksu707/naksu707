@@ -262,14 +262,6 @@ My goal is to continue growing as a technology professional capable of understan
 
 ---
 
-# GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=naksu707\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naksu707\&layout=compact\&theme=tokyonight)
-
----
-
 # Contact
 
 * LinkedIn: [Maria Jose Ospina](https://www.linkedin.com/in/mj-ospina707/)

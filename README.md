@@ -1,73 +1,68 @@
-# Hello, I'm Maria Jose Ospina
+# Hello, I'm María José
 
-### Software QA Engineer | Test Automation | Software Development
+**QA Engineer · Test Automation · Data Analytics**
 
-Systems Engineer focused on **Software Quality, Test Automation, and Software Development**.
+Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years testing banking and transactional platforms (payments, money transfers, credit, e-invoicing), and I'm now growing into automation and data.
 
-I have experience in manual testing, functional testing, regression testing, and unit testing with Mockito. I am currently expanding my expertise in automation, API testing, CI/CD, and AI.
-
----
-
-## About Me
-
-* Software Quality Assurance and Testing
-* Manual, Functional, Regression & Unit Testing
-* Test Automation with Java, Selenium & Playwright
-* Unit Testing with Mockito
-* API Testing with REST Assured, Karate & Postman
-* SQL and Database Testing
-* CI/CD and Test Reporting
+- QA Analyst at **QVision Technologies**, focused on the financial sector
+- **Queen Elizabeth Scholar (2026)** at Concordia University, researching data analytics & AI for urban environmental systems
+- Currently learning: Playwright, API testing, CI/CD and AI for QA
 
 ---
 
+### Tech Stack
 
-## Tech Stack
+**Languages**
+<br>
+<img src="https://skillicons.dev/icons?i=java,py,r,js,mysql,postgres&theme=dark" />
 
-### Languages
+**Testing & Automation**
+<br>
+<img src="https://skillicons.dev/icons?i=selenium,cypress,postman&theme=dark" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Karate-000000?style=for-the-badge&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" height="48" />
 
-`Java` `Python` `JavaScript` `SQL` `R`
+**Data & Analytics**
+<br>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="48" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white" height="48" />
 
-### Testing & Automation
-
-`Selenium WebDriver` `Playwright` `JUnit` `Mockito` `REST Assured` `Karate` `Cypress` `Postman` `JMeter`
-
-### Web Development
-
-`HTML5` `CSS3` `JavaScript` `Angular`
-
-### Tools & CI/CD
-
-`Git` `GitHub` `Maven` `Jenkins` `GitHub Actions` `Allure`
-
-
-### Databases
-
-`SQL` `PostgreSQL`
-
----
-
-## QA Mindset
-
-I believe quality is more than finding defects.
-
-My approach combines **critical thinking, risk-based testing, automation, technical understanding, and continuous improvement** to help build reliable software.
+**Web, Tools & CI/CD**
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,flask,angular,git,github,githubactions,jenkins,maven,azure&theme=dark" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" height="48" />
 
 ---
 
-## Currently Learning
+### Featured Projects
 
-`Advanced Automation` `API Testing` `CI/CD` `Software Architecture` `Performance Testing` `AI for QA` `Full-Stack Development`
+<a href="https://github.com/naksu707/montreal-air-quality-analysis">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=montreal-air-quality-analysis&theme=transparent&hide_border=true" />
+</a>
+<a href="https://github.com/naksu707/web-development-fundamentals">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=web-development-fundamentals&theme=transparent&hide_border=true" />
+</a>
 
 ---
 
-## Career Focus
+### GitHub Stats
 
-**Software QA · QA Automation · Test Automation · Software Testing · Software Development**
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naksu707&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naksu707&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=naksu707&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
-## Connect
+### Let's connect
 
-[LinkedIn](https://www.linkedin.com/in/mj-ospina707/) · [GitHub](https://github.com/naksu707)
+<a href="https://www.linkedin.com/in/mj-ospina707/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:maria.blue201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-> Quality is not an activity. It is a mindset.
+> *Quality is not an activity, it's a mindset.*

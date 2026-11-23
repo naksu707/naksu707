@@ -20,6 +20,7 @@ I have experience in manual testing, functional testing, regression testing, and
 
 ---
 
+
 ## Tech Stack
 
 ### Languages

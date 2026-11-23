@@ -1,4 +1,4 @@
-# Hi, I'm Maria Jose Ospina
+# Hello, I'm Maria Jose Ospina
 
 ### Software QA Engineer | Test Automation | Software Development
 

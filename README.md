@@ -38,6 +38,7 @@ I have experience in manual testing, functional testing, regression testing, and
 
 `Git` `GitHub` `Maven` `Jenkins` `GitHub Actions` `Allure`
 
+
 ### Databases
 
 `SQL` `PostgreSQL`

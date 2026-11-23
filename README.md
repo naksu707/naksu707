@@ -64,6 +64,7 @@ My approach combines **critical thinking, risk-based testing, automation, techni
 
 ---
 
+
 ## Connect
 
 [LinkedIn](https://www.linkedin.com/in/mj-ospina707/) · [GitHub](https://github.com/naksu707)

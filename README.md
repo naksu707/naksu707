@@ -1,4 +1,4 @@
-# Hello, I'm María José
+# Hello, I'm Maria Jose
 
 **QA Engineer · Test Automation · Data Analytics**
 
@@ -51,7 +51,7 @@ Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naksu707&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=naksu707&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naksu707&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
 </p>
 <p align="center">

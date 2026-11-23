@@ -80,4 +80,3 @@ Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years
 <a href="https://www.linkedin.com/in/mj-ospina707/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:maria.blue201@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-> *Quality is not an activity, it's a mindset.*

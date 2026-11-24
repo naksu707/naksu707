@@ -54,13 +54,26 @@ Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years
 
 ### Featured Projects
 
-<a href="https://github.com/naksu707/montreal-air-quality-analysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=montreal-air-quality-analysis&theme=transparent&hide_border=true" />
-</a>
-<a href="https://github.com/naksu707/web-development-fundamentals">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=web-development-fundamentals&theme=transparent&hide_border=true" />
-</a>
-
+<p align="center">
+  <a href="https://github.com/naksu707/fraud-radar-ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=fraud-radar-ml&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/naksu707/montreal-air-quality-analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=montreal-air-quality-analysis&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/naksu707/women-competitive-gaming-latam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=women-competitive-gaming-latam&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/naksu707/germina-viveros-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=germina-viveros-web&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/naksu707/banking-web-automation-framework">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=banking-web-automation-framework&theme=transparent&hide_border=true" />
+  </a>
+  <a href="https://github.com/naksu707/pitshield-core-system">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naksu707&repo=pitshield-core-system&theme=transparent&hide_border=true" />
+  </a>
+</p>
 ---
 
 ### GitHub Stats

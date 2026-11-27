@@ -18,6 +18,7 @@ Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 **Testing & Automation**
@@ -81,7 +82,7 @@ Systems Engineer and M.Sc. student in IT for Data Analytics. I've spent 3+ years
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=naksu707&show_icons=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naksu707&layout=compact&langs_count=6&theme=transparent&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naksu707&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=naksu707&theme=transparent&hide_border=true" />
